@@ -59,7 +59,7 @@ footer {
     color: #D5D5D5;
     text-decoration: none;
 }
-@media (max-width: 600px) {
+@media (max-width: 900px) {
     .fa {
         font-size: 20px;
         padding: 10px;
