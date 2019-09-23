@@ -12,6 +12,7 @@
     float: left;
     min-height: 55px;
     padding: 0 15px 5px;
+    
 }
 
 .navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus, .navbar-inverse .navbar-nav .active a:hover {
@@ -28,7 +29,7 @@
     text-transform: uppercase;
 }
 .btn {
-    fontsize: 18px;
+    font size: 18px;
     color: #FFF;
     padding: 12px 22px;
     background: #5E4485;
@@ -77,5 +78,3 @@ footer {
         font-size: 1.7em;
     }
 }
-
-
