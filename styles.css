@@ -1,10 +1,10 @@
 .navbar {
     margin-bottom: 0;
     border-radius: 0;
-    background-color: #5E4485;
+    background-color: rgb(48, 139, 86);
     color: white;
     padding: 1% 0;
-    font-size: 1.2 em;
+    font-size: 1.2em;
     border: 0;
 }
 
@@ -17,7 +17,7 @@
 
 .navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus, .navbar-inverse .navbar-nav .active a:hover {
     color: #FFF;
-    background-color: #5E4485;
+    background-color: rgb(73, 133, 68);
 } 
 
 .navbar-inverse .navbar-nav li a {
@@ -29,10 +29,10 @@
     text-transform: uppercase;
 }
 .btn {
-    font size: 18px;
+    font-size: 18px;
     color: #FFF;
     padding: 12px 22px;
-    background: #5E4485;
+    background: rgb(48, 139, 86);
     border: 2px solid #FFF;
 }
 .container {
@@ -45,7 +45,7 @@
 
 footer {
     width: 100%;
-    background-color: #5E4485;
+    background-color:rgb(48, 139, 86);
     padding: 3%;
     color: #FFF;
 }
